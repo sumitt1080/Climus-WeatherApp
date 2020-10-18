@@ -1,16 +1,34 @@
 # Climus
 
-A new Flutter project.
+A Beautiful basic weather app developed in Flutter. Right now it show only basic weather info.
+Will add more functionality very soon.
 
-## Getting Started
+To get it working please add your openweathermap.org api in "lib/services/weather.dart" file at "Put your api key at here" at 3rd Line.
 
-This project is a starting point for a Flutter application.
+Drop a 👍 if you like it:-
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+##______________________________________________________________________________________________________________________________________________________
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##                                                                  ScreenShots
+
+
+![Webp net-resizeimage](https://user-images.githubusercontent.com/51052011/93498301-408d4280-f92f-11ea-9553-d8ff0dd0b625.jpg)
+
+##                          1st
+##______________________________________________________________________________________________________________________________________________________
+
+![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/51052011/93498295-3e2ae880-f92f-11ea-9a1c-5b5ed9d06456.jpg)
+
+##                          2nd
+##______________________________________________________________________________________________________________________________________________________
+
+![Webp net-resizeimage (2)](https://user-images.githubusercontent.com/51052011/93498290-3cf9bb80-f92f-11ea-95c8-b24c6c9ea421.jpg)
+
+##                          3rd
+##______________________________________________________________________________________________________________________________________________________
+
+![Webp net-resizeimage (3)](https://user-images.githubusercontent.com/51052011/93498287-3bc88e80-f92f-11ea-8025-e65f1a829a56.jpg)
+
+##                          4th
+##______________________________________________________________________________________________________________________________________________________
