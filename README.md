@@ -6,7 +6,7 @@ A Beautiful basic weather app developed in Flutter.
 Api changed to metaweather.com .
 Added 7 day weather forecast with highs and low.
 
-Drop a 👍 if you like it:-
+Drop a 🌟 if you like it:-
 
 
 ##______________________________________________________________________________________________________________________________________________________
