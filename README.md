@@ -1,9 +1,10 @@
 # Climus
 
-A Beautiful basic weather app developed in Flutter. Right now it show only basic weather info.
-Will add more functionality very soon.
+A Beautiful basic weather app developed in Flutter. 
 
-To get it working please add your openweathermap.org api in "lib/services/weather.dart" file at "Put your api key at here" at 3rd Line.
+
+Api changed to metaweather.com .
+Added 7 day weather forecast with highs and low.
 
 Drop a 👍 if you like it:-
 
