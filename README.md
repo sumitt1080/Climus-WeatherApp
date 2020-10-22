@@ -13,22 +13,9 @@ Drop a 👍 if you like it:-
 ##                                                                  ScreenShots
 
 
-![Webp net-resizeimage](https://user-images.githubusercontent.com/51052011/93498301-408d4280-f92f-11ea-9553-d8ff0dd0b625.jpg)
+![Screenshot_20201022-123759](https://user-images.githubusercontent.com/51052011/96885649-6ebaf080-14a0-11eb-9a2b-70b8fe914aa1.jpg)&nbsp; &nbsp; ![Screenshot_20201022-123825](https://user-images.githubusercontent.com/51052011/96885659-7084b400-14a0-11eb-97a2-7d7b35022fae.jpg)  ![Screenshot_20201022-123909](https://user-images.githubusercontent.com/51052011/96885666-71b5e100-14a0-11eb-8093-6a8e79ef2ead.jpg)
 
-##                          1st
-##______________________________________________________________________________________________________________________________________________________
 
-![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/51052011/93498295-3e2ae880-f92f-11ea-9a1c-5b5ed9d06456.jpg)
 
-##                          2nd
-##______________________________________________________________________________________________________________________________________________________
 
-![Webp net-resizeimage (2)](https://user-images.githubusercontent.com/51052011/93498290-3cf9bb80-f92f-11ea-95c8-b24c6c9ea421.jpg)
 
-##                          3rd
-##______________________________________________________________________________________________________________________________________________________
-
-![Webp net-resizeimage (3)](https://user-images.githubusercontent.com/51052011/93498287-3bc88e80-f92f-11ea-8025-e65f1a829a56.jpg)
-
-##                          4th
-##______________________________________________________________________________________________________________________________________________________
